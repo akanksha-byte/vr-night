@@ -9,14 +9,14 @@ The project is a virtual grand-n-scary DJ party that comes along with a DJ Room,
 4. Minimum 8 GB RAM and quad-core CPU and dedicated GPU to get a smooth experience.
 
 **To use the application**
-- Clone the [repo](repo-URL) , and setup a local server to view the code on the web browser.
+- Clone the [repo](repo-URL), and setup a local server to view the code on the web browser.
 - For XAMPP - put the cloned repo in the 'htdocs' directory and use it.
 - On Visual Studio Code - download the `Live Server` extension by Ritwick Day. Open the workspace in the cloned folder and open the ... in code editor tab. Press `Go Live` to start the live server.
 
 **For Desktop mode - Once you enter in the VR mode, the cursor is locked. You can navigate using WASD controls/up-down-left-right keys**
 
 ## Technologies used- 
-[A-Frame](https://aframe.io/) -A web framework for building virtual reality experiences. Works on Vive, Rift, desktop, mobile platforms.
+[A-Frame](https://aframe.io/) - A web framework for building virtual reality experiences. Works on Vive, Rift, desktop, mobile platforms.
 
 ## Quick glance of the party-
 
